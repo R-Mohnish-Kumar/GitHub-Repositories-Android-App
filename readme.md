@@ -1,6 +1,6 @@
 # GitHub Repositories Android App
 
-An android application which facilitates retrieving and posting repositories in GitHub using RESTful APIs. It facilitates the user to access and redirect to the repositories available and allows the user to create a new repository in GitHub.
+An android application which facilitates retrieving and posting repositories in GitHub using RESTful APIs. It expedites the user to access and redirect to the repositories available and allows the user to create a new repository in GitHub.
 
 
 ## Technology used
